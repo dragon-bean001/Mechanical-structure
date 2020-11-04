@@ -10,7 +10,7 @@
 
 #define hou_AIN2 PBout(7)
 #define hou_AIN1 PBout(6)
-#define hou_BIN2 PBout(4)
+#define hou_BIN2 PBout(2)
 #define hou_BIN1 PBout(5)
 #define hou_STBY PBout(8)
 
